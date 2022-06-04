@@ -1,0 +1,56 @@
+[
+    {
+        "id": "7h30",
+        "lunes": "Simulación",
+        "Martes": "Fundamento Redes",
+        "miercoles": "Sistemas Digitales",
+        "jueves": "DB. Plataformas",
+        "viernes": "DB. Plataformas",
+        "estado": true
+    },
+    {
+        "id": "8h30",
+        "lunes": "Simulación",
+        "martes": "Fundamento Redes",
+        "miercoles": "Sistemas Digitales",
+        "jueves": "DB. Plataformas",
+        "viernes": "DB. Plataformas",
+        "estado": true
+    },
+    {
+        "id": "9h30",
+        "lunes": "Análisis numérico",
+        "martes": "DB.Plataforma",
+        "miercoles": "Análisis numérico",
+        "jueves": "Fundamento Redes",
+        "viernes": "Simulación",
+        "estado": true
+    },
+    {
+        "id": "10h30",
+        "lunes": "Análisis numérico",
+        "martes": "DB.Plataforma",
+        "miercoles": "Análisis numérico",
+        "jueves": "Fundamento Redes",
+        "viernes": "Simulacón",
+        "estado": true
+    },
+    {
+        "id": "11h30",
+        "lunes": "Sistemas Digitales",
+        "martes": "Análisis numérico",
+        "miercoles": "DB. Plataformas",
+        "jueves": "Simulación",
+        "viernes": "Sistemas Digitales",
+        "estado": true
+    },
+    {
+        "id": "12h30",
+        "lunes": "Sistemas Digitales",
+        "martes": "Análisis numérico",
+        "miercoles": "DB. Plataformas",
+        "jueves": "Simulación",
+        "viernes": "Sistemas Digitales",
+        "estado": true
+    }
+]

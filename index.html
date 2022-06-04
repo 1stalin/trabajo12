@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600|Open+Sans" rel="stylesheet"> 
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+	 <LINK REL="stylesheet" TYPE="text/css" HREF="calculadora.css">
+	<link rel="stylesheet" href="estilos.css">
+	 
+	
+</head>
+<body >
+
+<center>
+  <video src="intro.mp4" autoplay loop muted width="1000" height="1000" >
+   
+ </video>
+ </center>
+
+
+
+
+	<div class="contenedor" >  
+		<div>
+		<center>
+			<font color="red"><h1>UNL</h1></font>
+			<button id="btn-abrir-popup" class="btn-abrir-popup" style="background-color:#8181F7"><img src="indic.png"  alt="">
+			</button>
+		</center>
+	</div>
+
+			
+		<div class="overlay" id="overlay">
+
+
+			<div class="popup" id="popup" style="background-color:#5DADE2 ">
+				<a href="#" id="btn-cerrar-popup" class="btn-cerrar-popup"><i class="fas fa-times"></i></a>
+				<h3>UNIVERSIDAD NACIONAL DE LOJA </h3>
+				<h4>PRACTICA 1</h4>
+
+
+				<form action="acceso.php" method="POST">
+        <p><label for="usuario">Usuario</label>
+        <input type="text" name="usuario"></p>
+        <br>
+        <p><label for="password">Contraseña</label>
+        	
+        <input type="text" name="password"></p>
+
+        <p><input type="submit" value="Acceder"></p>
+    </form>  
+			</div>
+		</div>
+	</div>
+	
+
+	<script src="popup.js"></script>
+</body>
+</html>
